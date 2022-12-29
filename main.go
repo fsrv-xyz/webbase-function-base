@@ -5,7 +5,6 @@ import (
 
 	"github.com/bonsai-oss/webbase"
 
-	_ "github.com/fsrv-xyz/webbase-function-base/pkg/placeholder"
 	"github.com/fsrv-xyz/webbase-function-base/pkg/registry"
 )
 

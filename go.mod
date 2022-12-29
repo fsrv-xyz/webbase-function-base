@@ -2,7 +2,10 @@ module github.com/fsrv-xyz/webbase-function-base
 
 go 1.19
 
-require github.com/bonsai-oss/webbase v1.3.1
+
+require (
+	github.com/bonsai-oss/webbase v1.3.1
+)
 
 require (
 	github.com/beorn7/perks v1.0.1 // indirect
