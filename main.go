@@ -6,6 +6,7 @@ import (
 	"github.com/bonsai-oss/webbase"
 
 	"github.com/fsrv-xyz/webbase-function-base/pkg/registry"
+	_ "github.com/fsrv-xyz/webbase-function-base/placeholder"
 )
 
 func main() {
